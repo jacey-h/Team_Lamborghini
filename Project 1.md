@@ -2,7 +2,7 @@
 
 First, Assemble our piracer with wiki guide.
 
-<img src="https://user-images.githubusercontent.com/81483791/188978196-0c487b01-6736-46ed-85b9-2523e3f3639a.png"  width="600" height="450"/>
+<img src="https://user-images.githubusercontent.com/81483791/188978196-0c487b01-6736-46ed-85b9-2523e3f3639a.png"  width="800" height="600"/>
 
 Second, Install Raspberry pi imager to program in to the SD card.
 
@@ -21,7 +21,7 @@ Insert SD card in the laptop, and execute Raspberry pi imager.
 - Set id, passward for using SSH
 <img src="https://user-images.githubusercontent.com/81483791/188980846-23f2c5a4-dada-4551-a28d-3f662efbe534.png"  width="400" height="300"/>
 - Connect Wifi
-<img src="https://user-images.githubusercontent.com/81483791/188981071-cb382ede-25f8-4fe2-8da4-6c35cb3cccdd.png)"  width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/81483791/188984127-fff097f3-f565-4592-a638-717c0cce14e0.png"  width="400" height="300"/>
 - Choose Wireless LAN country : DE (Germany)
 <img src="https://user-images.githubusercontent.com/81483791/188981256-8ebe1f13-6f3c-4c61-bbc0-2515abd12a57.png"  width="400" height="300"/>
 - Write
@@ -61,7 +61,7 @@ Each team can’t get one moniter so we connect VNC viewer.
 
 `putty —version`
 - Execute putty client.
-<img src="https://user-images.githubusercontent.com/81483791/188981372-11d40a39-0d69-45a7-a3dd-e10887918754.png"  width="400" height="300"/>   
+<img src="https://user-images.githubusercontent.com/81483791/188981372-11d40a39-0d69-45a7-a3dd-e10887918754.png"  width="400" height="200"/>   
 - Fill IP address & choose SSH.
 <img src="https://user-images.githubusercontent.com/81483791/188981476-e44bca19-8750-4200-a799-ccce8a42eb4d.png"  width="400" height="300"/>
 - Change fonts server:fixed → Ubuntu mono.
@@ -78,7 +78,8 @@ It can be solved VNC → Enable (for using VNC viewer).
 
 For WEB control to Donkeycar, we have to change interface options.
 
-`sudo raspi-config`    
+`sudo raspi-config`         
+
 <img src="https://user-images.githubusercontent.com/81483791/188982658-c4d246f0-c232-4fcd-b4d5-585ee1f20e8a.png"  width="400" height="300"/>
 <img src="https://user-images.githubusercontent.com/81483791/188982723-51f834f4-b2db-4736-a63a-034f4f7b6e4e.png"  width="400" height="300"/>
 - Legacy Camera  → Enable
