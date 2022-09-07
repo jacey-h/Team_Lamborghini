@@ -2,7 +2,7 @@
 
 First, Assemble our piracer with wiki guide.
 ![스크린샷 2022-09-08 오전 5 59 45](https://user-images.githubusercontent.com/81483791/188978196-0c487b01-6736-46ed-85b9-2523e3f3639a.png)
-<img src="https://user-images.githubusercontent.com/81483791/188978196-0c487b01-6736-46ed-85b9-2523e3f3639a.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/81483791/188978196-0c487b01-6736-46ed-85b9-2523e3f3639a.png"  width="200" height="400"/>
 
 Second, Install Raspberry pi imager to program in to the SD card.
 
